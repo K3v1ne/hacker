@@ -1,0 +1,23 @@
+@font-face {
+    font-family: AvatarstdBol;
+    src: URL("https://billmakerting.com/static/media/AvertaStd-Bold.c4cb09ad260f4ef42920.otf") format("truetype")
+}
+
+.style_sotienNew__jo5Tp {
+    color: #1c20cd;
+    display: grid;
+    font-family: AvatarstdBol,sans-serif;
+    font-size: 44px;
+    line-height: 52px;
+    position: absolute;
+    text-align: center;
+    top: 328px;
+    width: 100%;
+    z-index: 100
+}
+
+.style_sotienNew__jo5Tp>span:last-child {
+    color: #797c82;
+    font-family: Avatar;
+    font-size: 20px
+}
